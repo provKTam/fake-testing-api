@@ -1,0 +1,12 @@
+{
+  "RiskView2ResponseEx": {
+    "response": {
+      "Header": {
+        "Status": 200,
+        "Message": "message",
+        "QueryId": "queryId",
+        "TransactionId": "txId"
+      }
+    }
+  }
+}
